@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there
+
+I'm a computer science student currently interested in low level programming languages like C, but I'm looking forward to master
+other computing paradigms.
+
 
 <!--
 **diego-ssc/diego-ssc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
