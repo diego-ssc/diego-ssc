@@ -4,6 +4,8 @@ I'm a computer science student currently interested in low level programming lan
 other computing paradigms.
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-ssc)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **diego-ssc/diego-ssc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
