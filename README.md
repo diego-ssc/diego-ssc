@@ -7,6 +7,8 @@
   <a href="https://www.linkedin.com/in/diego-ssc/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> 
 </p>  
 
+
+![C](https://img.shields.io/badge/-%20C?style=flat&logo=C&labelColor=%232D2D2D&color=%232D2D2D)
 <!--
 **diego-ssc/diego-ssc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
