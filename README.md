@@ -2,7 +2,7 @@
 #### Computer Science Student at UNAM
 
 ![C](https://img.shields.io/badge/-%20C?style=flat&logo=C&label=C&labelColor=%232D2D2D&color=%232D2D2D)
-![C++](https://img.shields.io/badge/-%20C%2B%2B?style=flat&logo=C%2B%2B&label=C++&labelColor=%232D2D2D&color=%232D2D2D)
+![C++](https://img.shields.io/badge/-%20C%2B%2B?style=flat&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%232d2d2d&color=%232D2D2D)
 ![Java](https://img.shields.io/badge/-%20C%2B%2B?style=flat&logo=openjdk&logoColor=white&label=Java&labelColor=%232d2d2d&color=%232D2D2D)
 ![Emacs](https://img.shields.io/badge/-%20emacs?style=flat&logo=gnuemacs&logoColor=white&label=Emacs&labelColor=%232d2d2d&color=%232D2D2D)
 
