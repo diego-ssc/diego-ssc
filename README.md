@@ -5,7 +5,7 @@
 ![C++](https://img.shields.io/badge/-%20C%2B%2B?style=flat&logo=C%2B%2B&logoColor=white&label=C%2B%2B&labelColor=%232d2d2d&color=%232D2D2D)
 ![Java](https://img.shields.io/badge/-%20C%2B%2B?style=flat&logo=openjdk&logoColor=white&label=Java&labelColor=%232d2d2d&color=%232D2D2D)
 ![Emacs](https://img.shields.io/badge/-%20emacs?style=flat&logo=gnuemacs&logoColor=white&label=Emacs&labelColor=%232d2d2d&color=%232D2D2D)
-![Linux](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&labelColor=%232d2d2d)
+![Linux](https://img.shields.io/badge/-%20linux?style=flat&logo=Linux&logoColor=white&label=Linux&labelColor=%232d2d2d&color=%232D2D2D)
 ![LaTex](https://img.shields.io/badge/-%20LaTex%20-%20LaTex?style=flat&logo=latex&color=%232d2d2d)
 
 <p align="center">
