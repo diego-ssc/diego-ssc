@@ -1,13 +1,12 @@
 ### Hello there
 
-I'm a computer science student currently interested in low level programming languages like C, but I'm looking forward to master
-other computing paradigms.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-ssc&hide=html&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-ssc&hide=html&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
-</a>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-ssc&hide=html&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align="right">
+  <a href="https://www.linkedin.com/in/diego-ssc/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> 
+</p>  
+
 <!--
 **diego-ssc/diego-ssc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
