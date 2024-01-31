@@ -8,10 +8,6 @@
 ![Linux](https://img.shields.io/badge/-%20linux?style=flat&logo=Linux&logoColor=white&label=Linux&labelColor=%232d2d2d&color=%232D2D2D)
 ![LaTex](https://img.shields.io/badge/-%20LaTex%20-%20LaTex?style=flat&logo=latex&color=%232d2d2d)
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-ssc&hide=html&show_icons=true&theme=transparent" alt="langs"/></a> 
-</p>  
-
 <p align="right">
   <a href="https://www.linkedin.com/in/diego-ssc/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> 
 </p>  
