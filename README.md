@@ -1,4 +1,5 @@
-### Hello there
+### Diego Sánchez
+#### Computer Science Student at UNAM
 
 ![C](https://img.shields.io/badge/-%20C?style=flat&logo=C&label=C&labelColor=%232D2D2D&color=%232D2D2D)
 ![C++](https://img.shields.io/badge/-%20C%2B%2B?style=flat&logo=C%2B%2B&label=C++&labelColor=%232D2D2D&color=%232D2D2D)
